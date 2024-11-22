@@ -1,3 +1,3 @@
 <?php
-  header('location: Default.aspx');
+  header('location: /Default.aspx');
 ?>
